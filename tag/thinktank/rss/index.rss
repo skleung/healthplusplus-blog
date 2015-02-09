@@ -1,16 +1,24 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>thinktank - health++</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Mon, 09 Feb 2015 08:00:27 GMT</lastBuildDate><atom:link href="http://localhost:2368/tag/thinktank/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Incentives and Financial Returns</title><description>&lt;p&gt;This week we tackled the area of financial returns in investing in healthcare startups, Evan posed to us the question:&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>thinktank - health++</title><description>A repository of thoughts from health++ events</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Mon, 09 Feb 2015 09:00:06 GMT</lastBuildDate><atom:link href="http://localhost:2368/tag/thinktank/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Incentives and Financial Returns</title><description>&lt;p&gt;At our inaugural think-tank discussion, we hosted &lt;strong&gt;Evan Anderson&lt;/strong&gt;, a 2004 graduate of the &lt;a href="http://biodesign.stanford.edu/bdn/index.jsp"&gt;Stanford Biodesign&lt;/a&gt; program previously worked at &lt;a href="http://spiracur.com/"&gt;Spiracur&lt;/a&gt; and the FDA. He currently works as a medical device consultant and is in the process of starting a new venture in dermatology.&lt;/p&gt;
+
+&lt;p&gt;To kick off our discussion, Evan posed this question:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Are the financial returns for investing in a healthcare startup less than a technology startup?  Why?  If the perception is that they are less, how can that be changed?&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;In response, we tried to pinpoint various reasons why the barrier to entry in healthcare innovation is so high:&lt;/p&gt;
+&lt;p&gt;In response, we discussed various reasons why the barrier to entry in healthcare innovation is so high:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Higher risk in healthcare than technology ventures&lt;/li&gt;
 &lt;li&gt;Larger startup costs&lt;/li&gt;
 &lt;li&gt;Rules + Regulations&lt;/li&gt;
-&lt;li&gt;Depth of knowledge required&lt;/li&gt;
+&lt;li&gt;Domain knowledge required for making a viable product&lt;/li&gt;
+&lt;li&gt;Larger margin of difference between products to convince care providers to overhaul any existing products&lt;/li&gt;
+&lt;li&gt;Incumbant advantages in sales + marketing by the large players in healthcare&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Evan Anderson&lt;/strong&gt;, a 2004 graduate of the &lt;a href="http://biodesign.stanford.edu/bdn/index.jsp"&gt;Stanford Biodesign&lt;/a&gt; program previously worked at &lt;a href="http://spiracur.com/"&gt;Spiracur&lt;/a&gt; and the FDA. He currently works as a medical device consultant and is in the process of starting a new venture in dermatology.&lt;/p&gt;</description><link>http://localhost:2368/think-tank-1-evan-anderson/</link><guid isPermaLink="false">7eed5811-9190-4535-b161-ebe0e698836d</guid><category>thinktank</category><dc:creator>health++ team</dc:creator><pubDate>Mon, 09 Feb 2015 05:56:59 GMT</pubDate></item></channel></rss>
+&lt;p&gt;We explored the incentives behind the current healthcare system and what consequences a shift to a pay-for-service model might have on the current dynamics within our healthcare system. In response to that shift, we considered what the implications would be if the heavy lifting of diagnosing patients based on large stores of patient data - paying physicians only for the service of confirming a diagnosis and discussing its implication with the patient.&lt;/p&gt;
+
+&lt;p&gt;The final thoughts of our discusssion dealt with how we can start convincing VCs that healthcare is a field worth putting money in. We considered two concluding thoughts on what might drive a change in the public and VC opinion of healthcare: &lt;br&gt;
+1. A tech bubble's rise and fall &lt;br&gt;
+2. Combatting braindrain of new-grad student talent to the hi-tech industry by convincing students that healthcare is an field worth innovating in.&lt;/p&gt;</description><link>http://localhost:2368/thinktank-1/</link><guid isPermaLink="false">7eed5811-9190-4535-b161-ebe0e698836d</guid><category>thinktank</category><dc:creator>health++ team</dc:creator><pubDate>Mon, 09 Feb 2015 05:56:59 GMT</pubDate></item></channel></rss>
