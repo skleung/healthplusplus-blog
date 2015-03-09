@@ -1,4 +1,29 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>health++</title><description>A repository of thoughts from health++ events</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Tue, 10 Feb 2015 22:19:15 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Incentives and Financial Returns</title><description>&lt;p&gt;At our inaugural think-tank discussion, we hosted Evan Anderson, a 2004 graduate of the &lt;a href="http://localhost:2368/thinktank-1/biodesign.stanford.edu/"&gt;Stanford Biodesign&lt;/a&gt; program who previously worked at &lt;a href="http://localhost:2368/thinktank-1/spiracur.com/"&gt;Spiracur&lt;/a&gt; and the FDA. He currently works as a medical device consultant and is in the process of starting a new venture in dermatology.&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>health++</title><description>A repository of thoughts from health++ events</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Mon, 09 Mar 2015 09:29:37 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Think-tank: Ron Gutman (HealthTap)</title><description>&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Ron_Gutman"&gt;Ron Gutman&lt;/a&gt;, the CEO and Founder of &lt;a href="http://healthtap.com"&gt;HealthTap&lt;/a&gt;, joined a panel of students for our second think-tank discussion. Since its founding in 2010, the healthcare startup has garnered a national network of 66,000 physicians and curated a database of 2.7 billion answers to medically-related questions.&lt;/p&gt;
+
+&lt;p&gt;The discussion was centered on the concept of telemedicine. We began with the prompt:  &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;"How does telemedicine differ from traditional medicine and how will these differences evolve in the face of changing technologies and policies?"&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The group opened with a brainstorm on the positive and negative implications of telemedicine:&lt;/p&gt;
+
+&lt;p&gt;On the upside, telemedicine can:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Streamline the process of medical documentation; doctors no longer need to focus on written paperwork as information is directly inputted and transferred onto an online database&lt;/li&gt;
+&lt;li&gt;Speed up the process of healthcare in general by removing overhead, wait, and logistical delays&lt;/li&gt;
+&lt;li&gt;Enable patients to consult their physician anytime and anywhere minimizing time and geographic constraints&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On the downside, telemedicine could: &lt;br&gt;
+* Weaken the patient-doctor relationship; the full spectrum of emotions can’t always be expressed via webcam. One attendee characterized the relationship as an “ongoing story,” strengthened by in-person visits, but not entirely replaceable with online interaction&lt;/p&gt;
+
+&lt;p&gt;Ron introduced the medical school's &lt;strong&gt;SOAP&lt;/strong&gt; mnemonic (Subjective, Objective, Assessment, Plan), the standard method of documentation used by medical providers. Where physicians have traditionally performed all four steps, recent advancements in machine learning have made it possible to diagnose patients based on large bodies of data, effectively automating the objective portion. &lt;a href="http://healthtap.com"&gt;HealthTap&lt;/a&gt;, for example, is able to use a patient’s browsing pattern on the website to help physicians identify implicit trends in health behavior.&lt;/p&gt;
+
+&lt;p&gt;The future of healthcare is certainly inextricable from data.  With this in mind, the group discussed the changing role of physicians as telemedicine becomes more and more prevalent. At first, it seemed that physicians would ultimately become full-time data scientistis. But the group soon reached the consensus that the imminent paradigm shift need not be binary. Attendees broached the idea of a physician also fluent in data science, a dual vocation that could analyze data trends while also maintaining the human connection. &lt;/p&gt;
+
+&lt;p&gt;The discussion closed on an optimistic note. Now that patients can consult doctors from the comfort of their homes, patients need spend time waiting in long queues, hindered by check-ins and documentation. On the other end of the spectrum, doctors are also able to free up more time for patients that actually require in-person treatment, while addressing more minor patient cases online. In conclusion, the group resolved that telemedicine has the potential to benefit both stakeholders, doctors and patients alike.&lt;/p&gt;</description><link>http://localhost:2368/think-tank-ron-gutman-healthtap/</link><guid isPermaLink="false">4927705e-86cb-4251-9f30-16976bfb7fba</guid><category>thinkta</category><dc:creator>health++ team</dc:creator><pubDate>Mon, 09 Mar 2015 09:28:30 GMT</pubDate></item><item><title>Incentives and Financial Returns</title><description>&lt;p&gt;At our inaugural think-tank discussion, we hosted Evan Anderson, a 2004 graduate of the &lt;a href="http://localhost:2368/thinktank-1/biodesign.stanford.edu/"&gt;Stanford Biodesign&lt;/a&gt; program who previously worked at &lt;a href="http://localhost:2368/thinktank-1/spiracur.com/"&gt;Spiracur&lt;/a&gt; and the FDA. He currently works as a medical device consultant and is in the process of starting a new venture in dermatology.&lt;/p&gt;
 
 &lt;p&gt;To kick off our discussion, Evan posed this question:  &lt;/p&gt;
 
